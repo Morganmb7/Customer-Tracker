@@ -13,7 +13,11 @@ let customers = [
         Name: "Olivia Brown",
         email: "OBrown@gmail.com",
         Purchases: ["protein powder", "creatine"]
-    }
+    },
+    {
+        Name: "Noah Wilson",
+        email: "noahballer173@gmail.com",
+        Purchases: ["protein powder", "protein snack", "wrist wraps"]}
 ];
 
 
