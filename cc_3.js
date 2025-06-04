@@ -39,7 +39,7 @@ customers[0].email = "LJohnson@gmail.com";
 customers[1].Purchases.push("pre-workout gummies");
 
 console.log(customers); 
-
+console.log("\nCustomers List:\n");
 customers.forEach(customer => {
     console.log(`Name: ${customer.Name}, Email: ${customer.email}, Total Purchases: ${customer.Purchases.length}`);
 });
